@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.35",
+    "vue": "^3.4.5",
+    "@iconify-json/octicon": "^1.1.52",
+    "unocss": "^0.58.3"
+  }
+}
